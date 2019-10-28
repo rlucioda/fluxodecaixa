@@ -1,4 +1,4 @@
-# fluxodecaixa
+# fluxodecaixa - Modulo Fluxo de Caixa - Controle Financeiro
 
 This application was generated using JHipster 6.4.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.4.1](https://www.jhipster.tech/documentation-archive/v6.4.1).
 
@@ -195,4 +195,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [jasmine]: https://jasmine.github.io/2.0/introduction.html
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: https://leafletjs.com/
-[definitelytyped]: https://definitelytyped.org/
+
+# [definitelytyped]: https://definitelytyped.org/
